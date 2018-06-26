@@ -1,0 +1,1 @@
+# snips-mopidy-skill
